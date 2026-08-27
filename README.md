@@ -1,3 +1,3 @@
 # excelr_demo
 This is my first repository
-Author - Ayesha Ibrahim 
+Author - Ayesha Ibrahim Shareef
